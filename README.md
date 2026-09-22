@@ -19,7 +19,17 @@ A production-grade, multi-tenant clinic and hospital management platform built f
 
 > Deliberately scoped as an operations/information system, not a diagnostic one.
 
+### [E-Commerce API with M-Pesa Integration](https://github.com/ciperrax/ecommerce-mpesa-api)
+A full-featured backend commerce platform in **TypeScript**, covering the full lifecycle of an online store — not just CRUD.
 
+- **Stack:** Node.js, Express, TypeScript (strict mode), PostgreSQL, Prisma ORM
+- **Payments:** Safaricom M-Pesa (Daraja) integration with a mock mode that auto-switches to live once real credentials are added
+- **Coverage:** Products, Inventory, Suppliers, Purchases, Cart, Orders, Payments, Receipts, Reviews, Reports
+- **Extras:** JWT authentication, downloadable PDF receipts (pdfkit), full Swagger API docs, seed scripts for demo data
+
+> Built as an API-first system — tested and documented via Postman/Swagger, no frontend coupling.
+
+---
 
 ## 🛠️ Tech Stack
 
