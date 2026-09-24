@@ -8,7 +8,7 @@ Fullstack developer from Kenya, focused on **backend systems and APIs** — buil
 
 ## 🚀 Featured Projects
 
-### [careOS — Clinic & Hospital Management Platform](https://github.com/ciperrax/careos)
+### [careOS — Clinic & Hospital Management Platform](https://github.com/CipherRax/CareOS-A-Hospital-Management-System-API)
 A production-grade, multi-tenant clinic and hospital management platform built for the Kenyan healthcare market — covering the entire patient journey from registration to billing.
 
 - **Backend:** Modular-monolith NestJS/Fastify API in TypeScript, with PostgreSQL, Prisma, Redis, and BullMQ
