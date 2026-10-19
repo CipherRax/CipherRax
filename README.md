@@ -2,7 +2,7 @@
 
 Fullstack developer from Kenya, focused on **backend systems and APIs** — building things like payment integrations, inventory/sales platforms, and secure REST services. Currently deepening my skills in **application security**.
 
-📫 [stanslaus011@gmail.com](mailto:stanslaus011@gmail.com) · 🌐 [Portfolio](https://main-portfolio-flame-five.vercel.app/) · 💼 [LinkedIn](https://linkedin.com/in/stanslaus-wekesa)
+📫 [stanslaus011@gmail.com](mailto:stanslaus011@gmail.com) · 🌐 [Portfolio](https://cipherrax.github.io/portfolio-site/) · 💼 [LinkedIn](https://linkedin.com/in/stanslaus-wekesa)
 
 ---
 
